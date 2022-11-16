@@ -9,3 +9,12 @@ Arduino is pupular and easy to use for creating new display and control for Port
 For display, we use cheap LCD 16X2 hd44780, one rotary encoder, and for key buttons configured as keypad.
 The Display shown 144.00MHz, VFO/MEM indicator, Simplex-Duplex mode, save Memory function
 other feature, saving duplex memory, and last frequency autosave.
+
+
+Depedencies:
+Wire.h library
+LiquidCrystal_i2c.h library
+Encoder.h library by PJRC.com
+EEPROM.h library
+
+Usable and tested with Arduino uno, also works with Nano, and Promini with little modifications.
