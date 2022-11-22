@@ -18,3 +18,5 @@ Encoder.h library by PJRC.com
 EEPROM.h library
 
 Usable and tested with Arduino uno, also works with Nano, and Promini with little modifications.
+
+Displayed S-meter still dummy display, i already given the working basic, make efforts by yourself!
